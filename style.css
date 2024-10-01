@@ -99,7 +99,7 @@ quando o mouse passar */
 
 /* home: imagem, tamanho e posição*/
 .home-container {
-  background: url(Image/home.png);
+  background: url(../Image/home.png);
   background-position: left;
   background-size: cover;
  }
